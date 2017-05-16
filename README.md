@@ -17,8 +17,8 @@ package requires using `linear-algebra` types when defining meshes and shaders.
 This package may also be useful when using other packages that accept or return
 `linear-algebra` types, such as [`mkovacs/quaternion`](http://package.elm-lang.org/packages/mkovacs/quaternion/latest).
 However, you shouldn't need this package for general use - you should be able to
-do any sort of geometric transformation you need (rotations, translations etc.)
-using OpenSolid itself.
+do most geometric transformations you need (rotations, translations etc.) using
+OpenSolid itself.
 
 ## Installation
 
