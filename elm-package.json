@@ -1,6 +1,6 @@
 {
-    "version": "1.0.2",
-    "summary": "Interop support for opensolid/geometry and elm-community/linear-algebra",
+    "version": "1.0.3",
+    "summary": "DEPRECATED: Moved to opensolid/linear-algebra-interop.",
     "repository": "https://github.com/opensolid/linear-algebra.git",
     "license": "MPL-2.0",
     "source-directories": [
