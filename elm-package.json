@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "summary": "Interop support for opensolid/geometry and elm-community/linear-algebra",
     "repository": "https://github.com/opensolid/linear-algebra.git",
     "license": "MPL-2.0",
